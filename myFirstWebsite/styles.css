@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Trispace:wght@200&display=swap');
+body {background-image: url(/myFirstWebsite/assets/hatterkep.png);
+    margin: 0; padding: 0;
+    font-family: 'Trispace', sans-serif, courier;
+    font-size: 20px;
+    line-height: 40px;
+    text-transform: inherit;}
+nav {background-color: #333333; height: 75px;
+    position: fixed; top: 0px; width: 100%;}
+a {font-size: 50px; color: #ff0099; margin: 10px 10px;}
+.menu {float: right;}
+.logo {position: absolute;}
+.kozep {text-align: center; font-weight: 800;}
+div {padding: 0 10%;}
+h1 {font-size: 110px; padding: 80px 0 0 0;}
+h2 {font-size: 75px; text-align: center;}
+h3 {font-size: 50px; color: #ff0099;}
+h4 {font-size: 35px; color: #ff0099;}
+p {text-align: justify;}
